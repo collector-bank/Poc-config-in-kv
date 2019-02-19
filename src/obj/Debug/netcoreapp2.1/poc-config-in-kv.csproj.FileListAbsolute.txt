@@ -1,0 +1,14 @@
+c:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.1\poc-config-in-kv.deps.json
+c:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.1\poc-config-in-kv.runtimeconfig.json
+c:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.1\poc-config-in-kv.runtimeconfig.dev.json
+c:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.1\poc-config-in-kv.dll
+c:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.1\poc-config-in-kv.pdb
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.csprojAssemblyReference.cache
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.csproj.CoreCompileInputs.cache
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.RazorAssemblyInfo.cache
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.RazorAssemblyInfo.cs
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.AssemblyInfoInputs.cache
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.AssemblyInfo.cs
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.RazorTargetAssemblyInfo.cache
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.dll
+c:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.1\poc-config-in-kv.pdb

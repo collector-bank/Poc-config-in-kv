@@ -1,0 +1,11 @@
+C:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.2\poc-config-in-kv.deps.json
+C:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.2\poc-config-in-kv.runtimeconfig.json
+C:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.2\poc-config-in-kv.runtimeconfig.dev.json
+C:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.2\poc-config-in-kv.dll
+C:\Project\poc-config-in-kv\src\bin\Debug\netcoreapp2.2\poc-config-in-kv.pdb
+C:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.2\poc-config-in-kv.csprojAssemblyReference.cache
+C:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.2\poc-config-in-kv.csproj.CoreCompileInputs.cache
+C:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.2\poc-config-in-kv.AssemblyInfoInputs.cache
+C:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.2\poc-config-in-kv.AssemblyInfo.cs
+C:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.2\poc-config-in-kv.dll
+C:\Project\poc-config-in-kv\src\obj\Debug\netcoreapp2.2\poc-config-in-kv.pdb

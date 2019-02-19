@@ -1,0 +1,1 @@
+Poc for appsettings secret in keyvault using MSI
